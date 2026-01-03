@@ -113,6 +113,14 @@ What has changed since last year that affects how you operate or what you priori
 
 ---
 
+## Parola Guida di quest'anno: [PAROLA]
+
+Quando mi trovo di fronte a una scelta:
+- Questa decisione mi avvicina o allontana da [PAROLA]?
+- Come incarnerebbe [PAROLA] in questa situazione?
+
+---
+
 ## How to Use This File
 
 - **Reference it weekly:** When doing your weekly review, ask "Did this week move me closer to my top 3 priorities?"
