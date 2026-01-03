@@ -113,11 +113,9 @@ What has changed since last year that affects how you operate or what you priori
 
 ---
 
-## Parola Guida di quest'anno: [PAROLA]
+## Guiding word of this year [WORD]
 
-Quando mi trovo di fronte a una scelta:
-- Questa decisione mi avvicina o allontana da [PAROLA]?
-- Come incarnerebbe [PAROLA] in questa situazione?
+Choose a single word and make it your theme for the year. Not a sentence, not a paragraph, a single word that captures the kind of year you want and the kind of person you're trying to become. Maybe it's simplify or connect or build. Use this word as your compass for the rest of the year. When you're lost, remember that word and let it guide you. 
 
 ---
 
